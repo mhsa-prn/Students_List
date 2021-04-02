@@ -1,0 +1,31 @@
+﻿@model List<Students_List.Models.Student> 
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<table class="table">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.id</td>
+            <td>@item.name</td>
+            <td>
+                <form method="get" asp-controller="Home" asp-action="Update">
+                    <input hidden value="@item.id" type="text" name="id" />
+                    <input hidden value="@item.name" type="text" name="name" /><input type="submit" value="Edit" />
+                </form>
+            </td>
+            <td>
+                <form method="get" asp-controller="Home" asp-action="Delete"> <input hidden value="@item.id" type="text" name="id"/> 
+                    <input hidden value="@item.name" type="text" name="name" /><input type="submit" value="Delete" /></form>
+            </td>
+        </tr>
+    }
+
+</table>

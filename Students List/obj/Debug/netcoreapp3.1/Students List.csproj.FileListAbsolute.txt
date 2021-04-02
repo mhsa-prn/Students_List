@@ -1,0 +1,41 @@
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\bin\Debug\netcoreapp3.1\appsettings.json
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\bin\Debug\netcoreapp3.1\Students List.exe
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\bin\Debug\netcoreapp3.1\Students List.deps.json
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\bin\Debug\netcoreapp3.1\Students List.runtimeconfig.json
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\bin\Debug\netcoreapp3.1\Students List.runtimeconfig.dev.json
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\bin\Debug\netcoreapp3.1\Students List.dll
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\bin\Debug\netcoreapp3.1\Students List.pdb
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\bin\Debug\netcoreapp3.1\Students List.Views.dll
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\bin\Debug\netcoreapp3.1\Students List.Views.pdb
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Students List.csprojAssemblyReference.cache
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Students List.AssemblyInfoInputs.cache
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Students List.AssemblyInfo.cs
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Students List.csproj.CoreCompileInputs.cache
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Students List.MvcApplicationPartsAssemblyInfo.cache
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Students List.RazorAssemblyInfo.cache
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Students List.RazorAssemblyInfo.cs
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\staticwebassets\Students List.StaticWebAssets.Manifest.cache
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\staticwebassets\Students List.StaticWebAssets.xml
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\scopedcss\bundle\Students List.styles.css
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Students List.TagHelpers.input.cache
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Students List.TagHelpers.output.cache
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Students List.RazorCoreGenerate.cache
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Students List.RazorTargetAssemblyInfo.cache
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Students List.RazorTargetAssemblyInfo.cs
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Students List.Views.pdb
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Students List.dll
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Students List.pdb
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Students List.genruntimeconfig.cache
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Students List.csproj.CopyComplete
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\bin\Debug\netcoreapp3.1\libman.json
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delete.cshtml.g.cs
+D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Razor\Views\Home\Update.cshtml.g.cs
