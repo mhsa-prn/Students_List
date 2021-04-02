@@ -13,8 +13,8 @@ namespace Students_List.Controllers
 
     {
         StudentRepository repository = new StudentRepository();
-        List<Student> model;
-        public int idd;
+        List<Student> model,searchList;
+        
         
         private readonly ILogger<HomeController> _logger;
 
@@ -25,9 +25,15 @@ namespace Students_List.Controllers
 
         public IActionResult Index()
         {
-
-            model = repository.select();
-            return View(model);
+            if (searchList != null)
+            {
+                return View(searchList);
+            }
+            else
+            {
+                model = repository.select();
+                return View(model);
+            }
         }
 
         public IActionResult Privacy()
@@ -74,6 +80,14 @@ namespace Students_List.Controllers
             repository.update(student);
 
             return RedirectToAction("Index");
+        }
+
+        [HttpPost]
+        public IActionResult Search(string str)
+        {
+
+            searchList=repository.search(str);
+            return RedirectToAction("Index",searchList);
         }
     }
 }

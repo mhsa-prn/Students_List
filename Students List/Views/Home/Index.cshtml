@@ -1,8 +1,17 @@
-﻿@model List<Students_List.Models.Student> 
+﻿@model List<Students_List.Models.Student>
 
 @{
     ViewData["Title"] = "Home Page";
 }
+
+
+<form method="post" asp-controller="Home" asp-action="Search">
+    <div class="form-group">
+        <input class="form-control" type="text" placeholder="Name..." name="str" >
+        <input class="btn btn-outline-secondary" type="submit" value="Search" />
+    </div>
+</form>
+
 
 <table class="table">
     <tr>
@@ -22,8 +31,10 @@
                 </form>
             </td>
             <td>
-                <form method="get" asp-controller="Home" asp-action="Delete"> <input hidden value="@item.id" type="text" name="id"/> 
-                    <input hidden value="@item.name" type="text" name="name" /><input type="submit" value="Delete" /></form>
+                <form method="get" asp-controller="Home" asp-action="Delete">
+                    <input hidden value="@item.id" type="text" name="id" />
+                    <input hidden value="@item.name" type="text" name="name" /><input type="submit" value="Delete" />
+                </form>
             </td>
         </tr>
     }

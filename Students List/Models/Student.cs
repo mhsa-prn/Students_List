@@ -47,5 +47,11 @@ namespace Students_List.Models
             stu.name = student.name;
 
         }
+
+        public List<Student> search(string str)
+        {
+            var searchedNames = students_tbl.FindAll(x => x.name == str);
+            return searchedNames;
+        }
     }
 }
