@@ -37,5 +37,4 @@ D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netco
 D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Students List.csproj.CopyComplete
 D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\bin\Debug\netcoreapp3.1\libman.json
 D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
-D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delete.cshtml.g.cs
 D:\shariaty\4\Mabahes Vizhe\Projects\Students List\Students List\obj\Debug\netcoreapp3.1\Razor\Views\Home\Update.cshtml.g.cs

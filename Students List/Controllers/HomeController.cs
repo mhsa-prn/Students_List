@@ -59,16 +59,13 @@ namespace Students_List.Controllers
         {
 
             repository.delete(student);
-            //return View();
             return RedirectToAction("Index");
         }
 
         public IActionResult Update(Student student)
         {
-
-            repository.setIdd(student.id);
-
             return View(student);
+           
         }
 
         public IActionResult Update2(Student student)
